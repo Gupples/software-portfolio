@@ -11,7 +11,7 @@ def main():
     # Greet the user.
     print(f"It's nice to meet you, {name}!")
     # Acknowledge when the user entered their name.
-    print(f"{time.strftime('I met you on %A, %B %d at %I:%M %p.')} ")
+    print(f"{time.strftime('I met you on %A, %B %d at %I:%M %p.')}\n")
     
 
 # Enable testing with pytest.
