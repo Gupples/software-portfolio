@@ -22,5 +22,5 @@ This program was created to demonstrate a baseline in ability for creating progr
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Dates w3schools](https://www.w3schools.com/python/python_datetime.asp)
+* [Stack Overflow](https://stackoverflow.com/questions/30214693/python-generate-a-date-time-string-that-i-can-use-in-for-mysql)
